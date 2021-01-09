@@ -1,4 +1,7 @@
 {
+    "products": [
+        {}
+    ],
     "locations": [
         {
             "id": 1,
@@ -18,5 +21,14 @@
             "sqFootage": 1200,
             "handicapAccess": true
         }
+    ],
+    "employees": [
+        {}
+    ],
+    "productTypes": [
+        {}
+    ],
+    "customers": [
+        {}
     ]
 }
