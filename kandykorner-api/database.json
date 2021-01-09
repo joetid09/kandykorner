@@ -1,0 +1,22 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "address": "100 candy lane",
+            "sqFootage": 100,
+            "handicapAccess": true
+        },
+        {
+            "id": 2,
+            "address": "120 candycane pk",
+            "sqFootage": 500,
+            "handicapAccess": false
+        },
+        {
+            "id": 3,
+            "address": "52 pickem ave",
+            "sqFootage": 1200,
+            "handicapAccess": true
+        }
+    ]
+}

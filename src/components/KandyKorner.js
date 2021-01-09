@@ -1,11 +1,14 @@
 import React from "react"
 import { LocationList } from "./Locations/LocationList"
+import { LocationProvider } from "./Locations/locationprovider"
 
 export const KandyKorner = () => (
     <>
-        <h2>List of Locations</h2>
+        <h2>Welcome to KandyKorner!</h2>
         <address>
-            <LocationList />
+            <LocationProvider>
+                <LocationList />
+            </LocationProvider >
         </address>
     </>
 )

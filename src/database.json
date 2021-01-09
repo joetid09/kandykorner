@@ -1,0 +1,22 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "address": "100 candy lane",
+      "sqFoot": "1000",
+      "handicapAccess": false
+    },
+    {
+      "id": 2,
+      "address": "200 mars ave",
+      "sqFoot": "2000",
+      "handicapAccess": true
+    },
+    {
+      "id": 3,
+      "address": "300 payday ct",
+      "sqFoot": "4320",
+      "handicapAccess": false
+    }
+  ]
+}
